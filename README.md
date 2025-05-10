@@ -1,2 +1,3 @@
-# FerdiEdogawahub-Data-Analysis
-Github profile README for Data Analysis Career
+# Hi There
+
+My name is Ferdi, and I'm  professional data scientist and also working on Cybersecurity projects.
